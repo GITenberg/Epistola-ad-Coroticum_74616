@@ -1,0 +1,30 @@
+_repo: Epistola-ad-Coroticum_74616
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Patrick, Saint
+    aliases:
+    - Pádraigh, Naomh
+    - Padraigh, Naomh
+    - Ireland, Saint Patrick of
+    gutenberg_agent_id: '39618'
+    url: http://www.gutenberg.org/2009/agents/39618
+    wikipedia: https://en.wikipedia.org/wiki/Saint_Patrick
+description: ''
+gutenberg_issued: '2024-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74616'
+language: la
+pgterms:marc905: 20120213142131patrick
+pgterms:marc906: '1847'
+pgterms:marc907: FR
+publication_note: '  $aParis :$bD''Amboise, Pres La Barriere D''Enfer, ou Petit-Montrouge,
+  $c1847.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Epistola ad Coroticum
+url: http://www.gutenberg.org/ebooks/74616
